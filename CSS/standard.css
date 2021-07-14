@@ -4,6 +4,13 @@
 -moz-box-sizing: border-box;
 box-sizing: border-box;
 }
+
+body {
+	background: #11073fe3;
+	color: rbg(39, 58, 110);
+	font: 300 16px/22px “Lato”, “Open Sans”, “Helvetica Neue”, Helvetica, Arial, sans-serif;
+        }
+
 .container{
 margin: 0 auto;
 padding-left: 30px;
